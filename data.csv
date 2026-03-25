@@ -1,0 +1,11 @@
+﻿Order_ID,Date,Customer_ID,Product,Category,Price,Quantity,City
+1001,05-01-2023,C101,Laptop,Electronics,55000,1,Delhi
+1002,06-01-2023,C102,Shoes,Fashion,2000,2,Mumbai
+1003,07-01-2023,C103,Phone,Electronics,30000,1,Jaipur
+1004,08-01-2023,C101,Headphones,Electronics,1500,2,Delhi
+1005,09-01-2023,C104,T-shirt,Fashion,800,3,Pune
+1006,10-01-2023,C105,Laptop,Electronics,60000,1,Bangalore
+1007,11-01-2023,C102,Watch,Accessories,2500,1,Mumbai
+1008,12-01-2023,C106,Phone,Electronics,28000,1,Delhi
+1009,13-01-2023,C107,Shoes,Fashion,2200,2,Jaipur
+1010,14-01-2023,C108,Bag,Accessories,1800,1,Pune
